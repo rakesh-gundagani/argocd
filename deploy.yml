@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: nginx
+        image: netflix
         ports:
           - containerPort: 80
 ---
